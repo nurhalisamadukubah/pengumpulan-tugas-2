@@ -1,0 +1,146 @@
+a {
+    text-decoration: none;
+    color: white;
+}
+
+body {
+    background-image: url("44.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+}
+.navbar-container {
+    width: 100%;
+}
+
+.navbar-body {
+    margin: auto;
+    width: 80%;
+    background-color: none;
+    padding: 1em;
+}
+
+.navbar-menu {
+    font-size: 14px;
+    float: right;
+    margin: 0;
+    list-style: circle;
+    padding: 4px 0;
+}
+
+.navbar-item {
+    text-transform: uppercase;
+    cursor: pointer;
+    display: inline;
+    padding: 0px 20px;
+}
+
+.banner-container {
+    width: 100%;
+}
+
+.banner-body {
+    overflow: hidden;
+    height: 480px;
+    background-repeat: repeat;
+    background-size: auto;
+    background-position: center;
+}
+
+.banner-color {
+    width: 100%;
+    background-color: rgba(87, 203, 238, 0.6);
+    text-align: center;
+    padding: 20px 10px;
+    color: white;
+    font-family: 'kristen itc', sans-serif !important;
+
+}
+
+.banner-color h2 {
+    font-size: 60px;
+    margin-bottom: 20px;
+}
+
+.banner-color h3 {
+    font-size: 23px;
+    margin-bottom: 40px;
+}
+
+.img.banner-brand {
+    float: center;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.paragraf {
+    text-align: center;
+    font-family: 'sitka banner', sans-serif ;
+    font-size: 18px;
+    
+}
+/*contact*/
+.nur {
+    background-color: none;
+    font-family: kristen itc;
+    width: 100%;
+    text-align: center;
+}
+
+.content-box{
+    color: whitesmoke;
+    background-color: rgba(126, 53, 243, 0.6);
+    font-family: kristen itc;
+    font-size: 10px;
+    line-height: 1.5;
+    width: 800px;
+    padding: 10px;
+    margin-bottom: 160px;
+}
+.content-box-skills {
+    color: whitesmoke;
+    background-color: rgba(126, 53, 243, 0.6);
+    font-family: kristen itc;
+    text-align: justify;
+    font-size: 17px;
+    line-height: 1.3;
+    width: 600px;
+    padding: 10px 10px 18px 10px;  
+    margin: 0px 10px 250px 10px;  
+}
+.content-body {
+    justify-content: center;
+    display: flex;
+}
+H1 {
+    color : whitesmoke;
+    font-family: kristen itc;
+    text-align: center;
+
+}
+.about {
+    margin-top: 120px;
+    margin-bottom: 150px;
+    color : whitesmoke;
+    font-family: kristen itc;
+    text-align: center;
+
+}
+
+.row {
+    border: none;
+    background: transparent;
+    color: white;
+    padding: 5px 50px;
+    cursor: pointer;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.footer {
+    font-size: 12px;
+    padding: 14px 0;
+    color: white;
+    text-align: center;
+    background-color: #282627;
+
+}

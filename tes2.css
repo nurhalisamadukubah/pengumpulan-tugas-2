@@ -1,0 +1,108 @@
+body{
+    background-image: url(44.jpg);
+    background-size: cover;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar-container {
+    width: 100%;
+    background-color: rgb(0, 10, 148);
+}
+
+.navbar-container {
+    width: 100%;
+}
+
+.navbar-body {
+    margin: auto;
+    width: 80%;
+    background-color: none;
+    padding: 1em;
+}
+
+.navbar-menu {
+    font-size: 14px;
+    float: right;
+    margin: 0;
+    list-style: circle;
+    padding: 4px 0;
+}
+
+.navbar-item {
+    text-transform: uppercase;
+    cursor: pointer;
+    display: inline;
+    padding: 0px 20px;
+}
+
+.laporan {
+    font-family: cursive;
+    margin: auto;
+    padding: 30px;
+    color: whitesmoke;
+    font-size: 2vh;
+    text-align:center;
+    text-shadow: 5px 5px 5px rgb(102, 0, 128);
+}
+
+.doc {
+    margin:  0% 3%;
+    padding: 1px;
+    float: left;
+}
+
+.doc2 {
+    margin:  0% 3%;
+    padding: 1px;
+    background-position-x: center;
+}
+.Document-satu{
+    background-color: rgba(102, 0, 128, 0.767);
+    width: 27%;
+    height: 27%;
+    float: left;
+    padding: 15px;
+    margin: 20px;
+    color: whitesmoke;
+    box-shadow: 2px 2px 2px black;
+}
+
+.Document-dua{
+    background-color: rgba(2, 26, 136, 0.815);
+    width: 27%;
+    height: 27%;
+    float: left;
+    padding: 15px;
+    margin: 20px;
+    color: whitesmoke;
+    box-shadow: 2px 2px 2px black;
+}
+
+.isi {
+    width: 350px;
+    height: 142px;
+}
+.btn {
+    text-align: center;
+    padding: 0px 20px;
+}
+.buton {
+    border: none;
+    background: rgb(31, 100, 230);
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    position: center;
+    margin: 0;
+    border-radius: 8px;
+    font-family: cursive;
+}
+
+h2 {
+    text-align: center;
+}
